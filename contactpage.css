@@ -1,0 +1,190 @@
+body {
+position: absolute;
+width: 1500px;
+height: 1000px;
+left: 0px;
+top: 0px;
+
+background: #d61515;}
+
+a:hover {
+  background-color: yellow;
+}
+/* home */
+
+.home{
+position: absolute;
+width: 323px;
+height: 139px;
+left: 861px;
+top: 61px;
+
+font-family: Presicav;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* contact */
+
+.contact{
+position: absolute;
+width: 323px;
+height: 139px;
+left: 870px;
+top: 130px;
+
+font-family: Presicav;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/* Toy Tokyo */
+
+.toytokyoheader {
+position: absolute;
+width: 939px;
+height: 212px;
+left: 37px;
+top: 0px;
+
+font-family: Mina;
+font-style: normal;
+font-weight: bold;
+font-size: 150px;
+line-height: 249px;
+
+color: black;
+}
+
+/* call us for price requests @ 229-886-75554 */
+
+.business{
+position: absolute;
+width: 1280px;
+height: 72px;
+left: 300px;
+top: 224px;
+
+font-family: Presicav;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 43px;
+
+color: #000000;
+}
+
+.otherastro{
+position: absolute;
+width: 531px;
+height: 520px;
+left: 437px;
+top: 200px;
+
+background: url(astroboy.png);
+}
+
+/* Hours M - F 11am/8pm S - S 11am/10pm */
+
+.hours{
+position: absolute;
+width: 655px;
+height: 202px;
+left: 37px;
+top: 260px;
+
+font-family: Presicav;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+
+/* 6th E St 1 avenue toytokyo@gmail.com for questions or concerns */
+
+.info{
+position: absolute;
+width: 591px;
+height: 497px;
+left: 36px;
+top: 438px;
+
+font-family: Presicav;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+
+.one{
+position: absolute;
+width: 53px;
+height: 52px;
+left: 1424px;
+top: 188px;
+
+background: #FFFFFF;
+}
+
+/* Ellipse 9 */
+
+.two{
+position: absolute;
+width: 53px;
+height: 52px;
+left: 1348px;
+top: 108px;
+
+background: #FFFFFF;
+
+}
+/* Ellipse 8 */
+
+.three{
+position: absolute;
+width: 53px;
+height: 52px;
+left: 1424px;
+top: 28px;
+
+background: #FFFFFF;
+}
+
+/* Ellipse 7 */
+
+.four{
+position: absolute;
+width: 53px;
+height: 52px;
+left: 1348px;
+top: 28px;
+
+background: #FFDE33;
+}
+
+/* Ellipse 6 */
+
+.five{
+position: absolute;
+width: 53px;
+height: 52px;
+left: 1424px;
+top: 108px;
+
+background: #1248D5;
+}

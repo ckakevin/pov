@@ -1,0 +1,186 @@
+body {
+position: absolute;
+width: 1500px;
+height: 1000px;
+left: 0px;
+top: 0px;
+
+background: #FFDE33;}
+a:hover {
+  background-color: white;
+}
+.home{
+position: absolute;
+width: 323px;
+height: 139px;
+left: -7px;
+top: 106px;
+
+font-family: Presicav;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.contact{
+  position: absolute;
+width: 323px;
+height: 139px;
+left: 353px;
+top: 106px;
+
+font-family: Presicav;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.intro {
+position: absolute;
+width: 742px;
+height: 946px;
+left: 35px;
+top: 284px;
+
+font-family: Mina;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 76px;
+
+color: #000000;
+}
+
+.links{
+  position: absolute;
+width: 798px;
+height: 118px;
+left: -187px;
+top: 101px;
+
+font-family: Mina;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 76px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.toytokyo{
+  position: absolute;
+width: 570px;
+height: 547px;
+left: 830px;
+top: 61px;
+
+font-family: Mina;
+font-style: normal;
+font-weight: normal;
+font-size: 189.932px;
+line-height: 249px;
+
+color: #000000;
+
+}
+
+.astroboy{
+position: absolute;
+width: 439px;
+height: 424px;
+left: 948px;
+top: 545px;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.astroboy:hover .image {
+  opacity: 0.3;
+}
+
+.logo1{
+  position: absolute;
+width: 53px;
+height: 52px;
+left: 1352px;
+top: 55px;
+
+background: #D51212;
+}
+
+/* Ellipse 2 */
+
+.logo2{
+position: absolute;
+width: 53px;
+height: 52px;
+left: 1282px;
+top: 55px;
+
+background: #1248D5;
+}
+
+/* Ellipse 10 */
+
+.logo3{
+position: absolute;
+width: 53px;
+height: 52px;
+left: 1352px;
+top: 121px;
+
+background: #1248D5;
+
+}
+/* Ellipse 5 */
+
+.logo4{
+position: absolute;
+width: 53px;
+height: 52px;
+left: 1282px;
+top: 121px;
+
+background: #D51212;
+}
+
+/* Ellipse 4 */
+
+.logo5{
+position: absolute;
+width: 53px;
+height: 52px;
+left: 1212px;
+top: 55px;
+
+background: #D51212;
+}
+
+/* Ellipse 6 */
+
+.logo6{
+position: absolute;
+width: 53px;
+height: 52px;
+left: 1352px;
+top: 187px;
+
+background: #D51212;
+}
